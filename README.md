@@ -68,7 +68,7 @@ This is a simple tutorial for user to use Plunify Cloud service through InTime s
 
 15. Change 'Recipe' option to 'Intime Default'.
 
-16. Selects the revision which has the best TNS result as parent revision. In this example, the revision which has the best TNS result is hotstart_1.
+16. Selects the revision which has the best TNS result as parent revision. In this example, both revisions hotstart_1 and hotstart has same result so it is okay to pick either one.
 <p align="left"><img src="images/intime_default_set_parent_revision.png" /></p>
 
 17. Repeat Step 7 to Step 14 for Intime Default recipe run. 
