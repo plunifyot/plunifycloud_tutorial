@@ -26,7 +26,7 @@ This is a simple tutorial for user to use Plunify Cloud service through InTime s
 
 1. Clone the sample project.
 
-`git clone https://plunifyot/plunifycloud_tutorial`
+`git clone https://github.com/plunifyot/plunifycloud_tutorial`
 
 2. Unzip the project/eight_bit_uc.xpr.zip file.
 
